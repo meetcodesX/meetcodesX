@@ -27,3 +27,6 @@
 - 💼 LinkedIn: https://linkedin.com/in/meetsahu
 - 📧 Email: meet.sahu.work@gmail.com
 - 🧑‍💻 GitHub: https://github.com/meetcodesX
+
+## 📊 GitHub Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=meetcodesX&theme=dark)

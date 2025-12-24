@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 - 🔭 I’m currently working on **DSA & Python-based projects**
-- 🤝 I’m looking to collaborate on **Open Source & AI/ML projects**
+- 🤝 I’m looking to collaborate on **AI/ML projects**
 - 🆘 I’m looking for help with **Advanced DSA & System Design**
 - 🌱 I’m currently learning **AI/ML, Data Structures & Algorithms**
 - 💬 Ask me about **C++, Python, DSA, Git, GitHub**

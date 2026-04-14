@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Meet Sahu</h1>
 <h3 align="center">Aspiring Software Engineer | DSA | AI/ML Enthusiast</h3>
 <p align="center">
-🚀 Passionate about problem-solving, backend development, and building real-world projects.
+🚀 Passionate about problem-solving, Machine Learning, Gen AI, and building real-world projects.
 </p>
 
 ## 👨‍💻 About Me

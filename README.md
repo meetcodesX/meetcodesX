@@ -13,20 +13,31 @@
 - ⚡ Fun fact: **I enjoy debugging more than writing fresh code 😄**
 
 ## 🛠️ Skills
-- **Languages:** C++, Python, Java  
-- **DSA:** Arrays, Strings, Linked List, Stack, Queue, Trees  
-- **Tools:** Git, GitHub, VS Code  
-- **Learning:** Machine Learning, Data Analysis
+- **Languages:** C++, Python, JavaScript, C  
+- **DSA:** Arrays, Strings, Linked List, Stack, Queue, Trees, Binary Tree, Graph, Backtracking,   
+- **Tools:** Git, GitHub, Jupyterlab  
+- **Learning:** Machine Learning, Data Analysis, Depp learning, Neural Networks, Agentic AI, GenAI
 
-## 🚀 Projects
-- 📊 **Stock Data Analysis** – Python-based financial data visualization  
-- 🤖 **Chatbot Project** – Rule-based & data-driven chatbot  
-- 📂 **GitHub Profile README** – Personal branding project
+## 🚀 Featured Projects
+### 🎙️ EchoAttend
+> AI-powered Attendance System using Face Recognition & Voice Authentication.
+**Tech Stack:** Python • OpenCV • Dlib • Streamlit • Supabase
+---
+### 📈 Stock Market Analysis
+> Machine Learning project for stock price visualization and trend analysis.
+**Tech Stack:** Python • Pandas • NumPy • Matplotlib
+---
+### 🤖 Rule-Based Chatbot
+> Intelligent chatbot capable of handling user queries using predefined rules.
+**Tech Stack:** Python
+
+---
+
+### 🌐 GitHub Profile README
+> Personal developer profile showcasing skills, projects and GitHub stats.
+
+**Tech Stack:** Markdown • Shields.io
 
 ## 🌐 Connect With Me
 - 💼 LinkedIn: https://linkedin.com/in/meetsahu
 - 📧 Email: meet.sahu.work@gmail.com
-- 🧑‍💻 GitHub: https://github.com/meetcodesX
-
-## 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=meetcodesX&theme=dark)

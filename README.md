@@ -19,24 +19,17 @@
 - **Learning:** Machine Learning, Data Analysis, Depp learning, Neural Networks, Agentic AI, GenAI
 
 ## 🚀 Featured Projects
-### 🎙️ EchoAttend
+#### 🎙️ EchoAttend
 > AI-powered Attendance System using Face Recognition & Voice Authentication.
 **Tech Stack:** Python • OpenCV • Dlib • Streamlit • Supabase
----
-### 📈 Stock Market Analysis
+> 
+#### 📈 Stock Market Analysis
 > Machine Learning project for stock price visualization and trend analysis.
 **Tech Stack:** Python • Pandas • NumPy • Matplotlib
----
-### 🤖 Rule-Based Chatbot
+
+#### 🤖 Rule-Based Chatbot
 > Intelligent chatbot capable of handling user queries using predefined rules.
 **Tech Stack:** Python
-
----
-
-### 🌐 GitHub Profile README
-> Personal developer profile showcasing skills, projects and GitHub stats.
-
-**Tech Stack:** Markdown • Shields.io
 
 ## 🌐 Connect With Me
 - 💼 LinkedIn: https://linkedin.com/in/meetsahu

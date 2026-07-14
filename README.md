@@ -1,22 +1,30 @@
 <h1 align="center">Hi 👋, I'm Meet Sahu</h1>
-<h3 align="center">Aspiring Software Engineer | DSA | AI/ML Enthusiast</h3>
+<h3 align="center"> AIML Engineer | Data Scinctist | DSA</h3>
 <p align="center">
 🚀 Passionate about problem-solving, Machine Learning, Gen AI, and building real-world projects.
 </p>
 
-## 👨‍💻 About Me
-- 🔭 I’m currently working on **DSA & Python-based projects**
-- 🤝 I’m looking to collaborate on **AI/ML projects**
-- 🆘 I’m looking for help with **Advanced DSA & System Design**
-- 🌱 I’m currently learning **AI/ML, Data Structures & Algorithms**
-- 💬 Ask me about **C++, Python, DSA, Git, GitHub**
-- ⚡ Fun fact: **I enjoy debugging more than writing fresh code 😄**
+## 💻 Tech Stack:
 
-## 🛠️ Skills
-- **Languages:** C++, Python, JavaScript, C  
-- **DSA:** Arrays, Strings, Linked List, Stack, Queue, Trees, Binary Tree, Graph, Backtracking,   
-- **Tools:** Git, GitHub, Jupyterlab  
-- **Learning:** Machine Learning, Data Analysis, Depp learning, Neural Networks, Agentic AI, GenAI
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
+
+
+## 📊 GitHub Stats:
+
+![Meet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meetcodesX&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meetcodesX&layout=compact&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=meetcodesX&theme=dark)
 
 ## 🚀 Featured Projects
 #### 🎙️ EchoAttend

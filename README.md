@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Meet Sahu</h1>
-<h3 align="center"> AIML Engineer | Data Scinctist | DSA</h3>
+<h3 align="center"> AIML Engineer | Data Scientist | DSA</h3>
 <p align="center">
 🚀 Passionate about problem-solving, Machine Learning, Gen AI, and building real-world projects.
 </p>

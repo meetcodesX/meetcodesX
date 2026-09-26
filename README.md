@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Meet Sahu</h1>
-<h3 align="center"> AIML Engineer | Data Scientist | DSA</h3>
+<h3 align="center">Aspiring AIML Engineer | Data Scientist | DSA</h3>
 <p align="center">
 🚀 Passionate about problem-solving, Machine Learning, Gen AI, and building real-world projects.
 </p>
@@ -29,17 +29,39 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=meetcodesX&theme=dark)
 
 ## 🚀 Featured Projects
-#### 🎙️ EchoAttend
-> AI-powered Attendance System using Face Recognition & Voice Authentication.
-**Tech Stack:** Python • OpenCV • Dlib • Streamlit • Supabase
-> 
-#### 📈 Stock Market Analysis
-> Machine Learning project for stock price visualization and trend analysis.
-**Tech Stack:** Python • Pandas • NumPy • Matplotlib
+### 🏋️ FormSync — AI-Powered Fitness Coach
+> Real-time AI gym coach that uses computer vision to track exercises, analyze form, count reps, and provide AI-powered voice feedback.
+**Key Features:**
+- Real-time pose detection and joint-angle analysis using MediaPipe
+- Automatic rep and set counting
+- Exercise form analysis across multiple workouts
+- AI-generated coaching feedback with voice output
+- Workout history and progress tracking
+**Tech Stack:** Python • Streamlit • OpenCV • MediaPipe • WebRTC • Groq LLM • gTTS • SQLite
+🌐 [Live Demo](https://formsync-fitness.streamlit.app/) 
+---
 
-#### 🤖 Rule-Based Chatbot
-> Intelligent chatbot capable of handling user queries using predefined rules.
-**Tech Stack:** Python
+### 🎙️ EchoAttend — AI-Powered Attendance System
+> An intelligent attendance platform that helps teachers mark student attendance using face and voice recognition.
+**Key Features:**
+- Face recognition for student identification
+- Voice-based verification
+- Teacher attendance workflow
+- Student attendance records
+- Cloud database integration
+**Tech Stack:** Python • Streamlit • OpenCV • dlib • Resemblyzer • Supabase • Librosa
+🌐 [Live Demo](https://echoattend-ai.streamlit.app/) 
+---
+
+### 🤖 Interview AI — AI-Powered Mock Interview Platform
+> An AI-driven interview platform that evaluates candidate responses, provides semantic feedback, and adapts follow-up questions based on answers.
+**Key Features:**
+- AI-powered interview answer evaluation
+- Semantic feedback and response scoring
+- Adaptive follow-up questions
+- Interview evaluation and final report
+- API-based backend architecture
+**Tech Stack:** FastAPI • Python • Google Gemini • AI/LLM Integration
 
 ## 🌐 Connect With Me
 - 💼 LinkedIn: https://linkedin.com/in/meetsahu

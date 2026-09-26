@@ -31,36 +31,44 @@
 ## 🚀 Featured Projects
 ### 🏋️ FormSync — AI-Powered Fitness Coach
 > Real-time AI gym coach that uses computer vision to track exercises, analyze form, count reps, and provide AI-powered voice feedback.
+
 **Key Features:**
 - Real-time pose detection and joint-angle analysis using MediaPipe
 - Automatic rep and set counting
 - Exercise form analysis across multiple workouts
 - AI-generated coaching feedback with voice output
 - Workout history and progress tracking
+  
 **Tech Stack:** Python • Streamlit • OpenCV • MediaPipe • WebRTC • Groq LLM • gTTS • SQLite
+
 🌐 [Live Demo](https://formsync-fitness.streamlit.app/) 
 ---
 
 ### 🎙️ EchoAttend — AI-Powered Attendance System
 > An intelligent attendance platform that helps teachers mark student attendance using face and voice recognition.
+
 **Key Features:**
 - Face recognition for student identification
 - Voice-based verification
 - Teacher attendance workflow
 - Student attendance records
 - Cloud database integration
+  
 **Tech Stack:** Python • Streamlit • OpenCV • dlib • Resemblyzer • Supabase • Librosa
+
 🌐 [Live Demo](https://echoattend-ai.streamlit.app/) 
 ---
 
 ### 🤖 Interview AI — AI-Powered Mock Interview Platform
 > An AI-driven interview platform that evaluates candidate responses, provides semantic feedback, and adapts follow-up questions based on answers.
+
 **Key Features:**
 - AI-powered interview answer evaluation
 - Semantic feedback and response scoring
 - Adaptive follow-up questions
 - Interview evaluation and final report
 - API-based backend architecture
+  
 **Tech Stack:** FastAPI • Python • Google Gemini • AI/LLM Integration
 
 ## 🌐 Connect With Me

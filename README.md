@@ -4,6 +4,15 @@
 🚀 Passionate about problem-solving, Machine Learning, Gen AI, and building real-world projects.
 </p>
 
+## 👨‍💻 About Me
+
+- 🎓 B.Tech CSE student at GHRCE, Nagpur
+- 🤖 Aspiring AI/ML Engineer passionate about Generative AI
+- 💻 Solved 500+ DSA problems
+- 🧠 Exploring Deep Learning, Computer Vision, and LLMs
+- 🚀 Building AI-powered applications and real-world projects
+- 📫 Reach me at: meet.sahu.work@gmail.com
+  
 ## 💻 Tech Stack:
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -25,52 +34,10 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-## 📊 GitHub Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=meetcodesX&theme=dark)
+## 📊 GitHub Analytics
 
-## 🚀 Featured Projects
-### 🏋️ FormSync — AI-Powered Fitness Coach
-> Real-time AI gym coach that uses computer vision to track exercises, analyze form, count reps, and provide AI-powered voice feedback.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meetcodesX&show_icons=true&theme=tokyonight&hide_border=true)
 
-**Key Features:**
-- Real-time pose detection and joint-angle analysis using MediaPipe
-- Automatic rep and set counting
-- Exercise form analysis across multiple workouts
-- AI-generated coaching feedback with voice output
-- Workout history and progress tracking
-  
-**Tech Stack:** Python • Streamlit • OpenCV • MediaPipe • WebRTC • Groq LLM • gTTS • SQLite
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meetcodesX&layout=compact&theme=tokyonight&hide_border=true)
 
-🌐 [Live Demo](https://formsync-fitness.streamlit.app/) 
----
-
-### 🎙️ EchoAttend — AI-Powered Attendance System
-> An intelligent attendance platform that helps teachers mark student attendance using face and voice recognition.
-
-**Key Features:**
-- Face recognition for student identification
-- Voice-based verification
-- Teacher attendance workflow
-- Student attendance records
-- Cloud database integration
-  
-**Tech Stack:** Python • Streamlit • OpenCV • dlib • Resemblyzer • Supabase • Librosa
-
-🌐 [Live Demo](https://echoattend-ai.streamlit.app/) 
----
-
-### 🤖 Interview AI — AI-Powered Mock Interview Platform
-> An AI-driven interview platform that evaluates candidate responses, provides semantic feedback, and adapts follow-up questions based on answers.
-
-**Key Features:**
-- AI-powered interview answer evaluation
-- Semantic feedback and response scoring
-- Adaptive follow-up questions
-- Interview evaluation and final report
-- API-based backend architecture
-  
-**Tech Stack:** FastAPI • Python • Google Gemini • AI/LLM Integration
-
-## 🌐 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/meetsahu
-- 📧 Email: meet.sahu.work@gmail.com
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=meetcodesX&theme=tokyonight&hide_border=true)
